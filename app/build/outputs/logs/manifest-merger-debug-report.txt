@@ -1,0 +1,368 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-core:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/411143fc85b1e2140dd035d5b892485c/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3a6ec433568c9510cebfdb3ed63d7edc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/b03db9fdd8ff38c5405592b6d9879a05/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/40daa53a02b4dc5c25849add89f65d7c/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:16:1-35:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f991db83121ff88443e569eec3ad1173/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/57465b6cad9305cd1de0c42e02358836/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/01b6a7f2da48a76bdb12a9041bf3c8c5/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/9ef53f31b3d212484473b294126efc7a/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.firebase:firebase-common:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/15d1f7e838a0db5271feeac32d713a53/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/faa35860cc83cdf2a354073189576af6/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/7fcf39489a7dd466023e2861fd3253e4/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.2.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/f7f177f7fda46f842f576b6dbf4f7d31/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/e285b822764ab23400f4abaa3cc2d2b5/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4919ffc494ea7b99966443c8ed17121b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4f35e738214e194aa1bf58f1ecc5c20e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/45326f8918751303404cbc1f9231d269/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a9f5b66fb8cfa5fd7f2604fe0588f405/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/dfa66e4f2e65fa8f1fa7a79fa573b2ff/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/002e9419dd33db93f16995a53da116d7/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7c708ebea1dc7415a68bfcf20ef367cf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0e48100e49396f6d183e7fdb583e1cdd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/61dd2c143f8de31001e6075028660098/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/2e018ceed435d522562e3cff20d942ba/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/3517a54a14474a8196325f6deb651885/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/a2421aec77eccd1421ff233adf1dfdb2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/2962dbf123346ffc21c1979563dc4484/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b6faaa84ea0859a7d1482f1fe650617e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/883c339b1e2a34700fcd7c47b12c4e61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/e271758905c2bf64cbe2a091355e60e0/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.firebase:firebase-core:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/411143fc85b1e2140dd035d5b892485c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/411143fc85b1e2140dd035d5b892485c/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/b03db9fdd8ff38c5405592b6d9879a05/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/b03db9fdd8ff38c5405592b6d9879a05/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/40daa53a02b4dc5c25849add89f65d7c/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/40daa53a02b4dc5c25849add89f65d7c/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/01b6a7f2da48a76bdb12a9041bf3c8c5/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/01b6a7f2da48a76bdb12a9041bf3c8c5/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/9ef53f31b3d212484473b294126efc7a/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/9ef53f31b3d212484473b294126efc7a/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/15d1f7e838a0db5271feeac32d713a53/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/15d1f7e838a0db5271feeac32d713a53/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/faa35860cc83cdf2a354073189576af6/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/faa35860cc83cdf2a354073189576af6/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/7fcf39489a7dd466023e2861fd3253e4/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/7fcf39489a7dd466023e2861fd3253e4/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/f7f177f7fda46f842f576b6dbf4f7d31/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/f7f177f7fda46f842f576b6dbf4f7d31/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/e285b822764ab23400f4abaa3cc2d2b5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/e285b822764ab23400f4abaa3cc2d2b5/AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/dfa66e4f2e65fa8f1fa7a79fa573b2ff/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/dfa66e4f2e65fa8f1fa7a79fa573b2ff/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/002e9419dd33db93f16995a53da116d7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/002e9419dd33db93f16995a53da116d7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/61dd2c143f8de31001e6075028660098/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/61dd2c143f8de31001e6075028660098/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/2e018ceed435d522562e3cff20d942ba/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/2e018ceed435d522562e3cff20d942ba/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/3517a54a14474a8196325f6deb651885/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/3517a54a14474a8196325f6deb651885/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/a2421aec77eccd1421ff233adf1dfdb2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/a2421aec77eccd1421ff233adf1dfdb2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/2962dbf123346ffc21c1979563dc4484/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/2962dbf123346ffc21c1979563dc4484/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/e271758905c2bf64cbe2a091355e60e0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/e271758905c2bf64cbe2a091355e60e0/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.pimenvibritania.cab.SplashActivity
+ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:12:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.pimenvibritania.cab.WelcomeActivity
+ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:19:9-53
+	android:name
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:19:19-50
+activity#com.example.pimenvibritania.cab.DriverLoginRegisterActivity
+ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:20:9-65
+	android:name
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:20:19-62
+activity#com.example.pimenvibritania.cab.CustomerLoginRegisterActivity
+ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:21:9-76
+	android:name
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:21:19-64
+uses-sdk
+INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
+INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/411143fc85b1e2140dd035d5b892485c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/411143fc85b1e2140dd035d5b892485c/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3a6ec433568c9510cebfdb3ed63d7edc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3a6ec433568c9510cebfdb3ed63d7edc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/b03db9fdd8ff38c5405592b6d9879a05/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/b03db9fdd8ff38c5405592b6d9879a05/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/40daa53a02b4dc5c25849add89f65d7c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/40daa53a02b4dc5c25849add89f65d7c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f991db83121ff88443e569eec3ad1173/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f991db83121ff88443e569eec3ad1173/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/57465b6cad9305cd1de0c42e02358836/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/57465b6cad9305cd1de0c42e02358836/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/01b6a7f2da48a76bdb12a9041bf3c8c5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/01b6a7f2da48a76bdb12a9041bf3c8c5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/9ef53f31b3d212484473b294126efc7a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/9ef53f31b3d212484473b294126efc7a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/15d1f7e838a0db5271feeac32d713a53/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/15d1f7e838a0db5271feeac32d713a53/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/faa35860cc83cdf2a354073189576af6/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/faa35860cc83cdf2a354073189576af6/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/7fcf39489a7dd466023e2861fd3253e4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/7fcf39489a7dd466023e2861fd3253e4/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/f7f177f7fda46f842f576b6dbf4f7d31/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/f7f177f7fda46f842f576b6dbf4f7d31/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/e285b822764ab23400f4abaa3cc2d2b5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/e285b822764ab23400f4abaa3cc2d2b5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4919ffc494ea7b99966443c8ed17121b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4919ffc494ea7b99966443c8ed17121b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4f35e738214e194aa1bf58f1ecc5c20e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4f35e738214e194aa1bf58f1ecc5c20e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/45326f8918751303404cbc1f9231d269/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/45326f8918751303404cbc1f9231d269/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a9f5b66fb8cfa5fd7f2604fe0588f405/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a9f5b66fb8cfa5fd7f2604fe0588f405/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/dfa66e4f2e65fa8f1fa7a79fa573b2ff/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/dfa66e4f2e65fa8f1fa7a79fa573b2ff/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/002e9419dd33db93f16995a53da116d7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/002e9419dd33db93f16995a53da116d7/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7c708ebea1dc7415a68bfcf20ef367cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7c708ebea1dc7415a68bfcf20ef367cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0e48100e49396f6d183e7fdb583e1cdd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0e48100e49396f6d183e7fdb583e1cdd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/61dd2c143f8de31001e6075028660098/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/61dd2c143f8de31001e6075028660098/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/2e018ceed435d522562e3cff20d942ba/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/2e018ceed435d522562e3cff20d942ba/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/3517a54a14474a8196325f6deb651885/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/3517a54a14474a8196325f6deb651885/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/a2421aec77eccd1421ff233adf1dfdb2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/a2421aec77eccd1421ff233adf1dfdb2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/2962dbf123346ffc21c1979563dc4484/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/2962dbf123346ffc21c1979563dc4484/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b6faaa84ea0859a7d1482f1fe650617e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b6faaa84ea0859a7d1482f1fe650617e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/883c339b1e2a34700fcd7c47b12c4e61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/883c339b1e2a34700fcd7c47b12c4e61/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/e271758905c2bf64cbe2a091355e60e0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/e271758905c2bf64cbe2a091355e60e0/AndroidManifest.xml:4:5-43
+INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
+INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/f7f177f7fda46f842f576b6dbf4f7d31/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/9ef53f31b3d212484473b294126efc7a/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/9ef53f31b3d212484473b294126efc7a/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/9ef53f31b3d212484473b294126efc7a/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/9ef53f31b3d212484473b294126efc7a/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/9ef53f31b3d212484473b294126efc7a/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/9ef53f31b3d212484473b294126efc7a/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/9ef53f31b3d212484473b294126efc7a/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/9ef53f31b3d212484473b294126efc7a/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/9ef53f31b3d212484473b294126efc7a/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/9ef53f31b3d212484473b294126efc7a/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/fccc38871683f73f467a9fd06816c00c/AndroidManifest.xml:33:16-90
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/01b6a7f2da48a76bdb12a9041bf3c8c5/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/01b6a7f2da48a76bdb12a9041bf3c8c5/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/01b6a7f2da48a76bdb12a9041bf3c8c5/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/01b6a7f2da48a76bdb12a9041bf3c8c5/AndroidManifest.xml:19:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:25:17-71
+permission#com.example.pimenvibritania.cab.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:27:22-76
+uses-permission#com.example.pimenvibritania.cab.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:27:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:31:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:31:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:31:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:31:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:32:13-35:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.pimenvibritania.cab
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:32:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:33:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:34:27-58
+category#com.example.pimenvibritania.cab
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:34:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:40:9-44:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:40:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:40:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:41:13-43:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:41:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:42:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/1670214a30a817609144346c16f89acd/AndroidManifest.xml:42:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/15d1f7e838a0db5271feeac32d713a53/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/15d1f7e838a0db5271feeac32d713a53/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/15d1f7e838a0db5271feeac32d713a53/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/15d1f7e838a0db5271feeac32d713a53/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/15d1f7e838a0db5271feeac32d713a53/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/7fcf39489a7dd466023e2861fd3253e4/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/7fcf39489a7dd466023e2861fd3253e4/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/7fcf39489a7dd466023e2861fd3253e4/AndroidManifest.xml:20:20-65

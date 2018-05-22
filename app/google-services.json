@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "501706763443",
+    "firebase_url": "https://cabapp-2a7b4.firebaseio.com",
+    "project_id": "cabapp-2a7b4",
+    "storage_bucket": "cabapp-2a7b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501706763443:android:e4b8126ad4b4af77",
+        "android_client_info": {
+          "package_name": "com.example.pimenvibritania.cab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501706763443-hq7nilh8est2vkhbve3ke9866ffkt8rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pimenvibritania.cab",
+            "certificate_hash": "ab49c033d3611c573c72a8509e27c42c2a667845"
+          }
+        },
+        {
+          "client_id": "501706763443-k5ee5441aap51bs69pb5cr74ea96afd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaybTs67f0xhGlmTO0dKUBFDXhMF_sk6Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501706763443-k5ee5441aap51bs69pb5cr74ea96afd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
