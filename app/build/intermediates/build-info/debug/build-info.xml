@@ -5,7 +5,7 @@
     build-mode="FULL"
     format="10"
     plugin-version="3.1.0"
-    timestamp="1527429635336"
+    timestamp="1527450987349"
     token="3519198273842063914"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -44,10 +44,10 @@
         location="/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
         type="SPLIT" />
     <artifact
-        location="/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        location="/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        location="/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
     <artifact
         location="/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
@@ -61,7 +61,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1527429635336"
+        timestamp="1527450987349"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
@@ -85,10 +85,10 @@
             location="/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/split-apk/debug/slices/slice_2.apk"

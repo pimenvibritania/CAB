@@ -67,6 +67,9 @@
             android:name="com.example.pimenvibritania.cab.DriversMapsActivity"
             android:label="@string/title_activity_drivers_maps" />
         <activity
+            android:name="com.example.pimenvibritania.cab.CustomerMapActivity"
+            android:label="@string/title_activity_customer_map" />
+        <activity
             android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
             android:excludeFromRecents="true"
             android:exported="true"

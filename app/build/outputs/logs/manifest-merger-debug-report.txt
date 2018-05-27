@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-49:12
-INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-49:12
-INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-49:12
-INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-49:12
+ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-52:12
 MERGED from [com.google.firebase:firebase-database:16.0.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.1.aar/da12f9e1cd1bf7c83068a2d13bf3a5e5/AndroidManifest.xml:2:1-8:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a2adfc27569dcbd9d3fcce07903f34b2/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/6164e647bd29561615efb4a24e15c3fa/AndroidManifest.xml:2:1-11:12
@@ -42,20 +42,20 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/pimenvibritania/.grad
 MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.4.aar/4addb1f2d947ac8313e08cefcf0c5583/AndroidManifest.xml:17:1-24:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6ad8b97d7c2b0abe3049277e6e56195f/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/974df3ba2ee446f7f73b75b58865a1d9/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-49:12
-INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-49:12
-INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-52:12
 	package
 		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:3:5-46
 		INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
 		INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
-		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-49:12
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-52:12
 		INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
-		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-49:12
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:1-52:12
 		INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:2:11-69
@@ -64,7 +64,7 @@ ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidM
 	android:name
 		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:10:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:11:5-80
+ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:11:5-81
 	android:name
 		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:11:22-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
@@ -82,7 +82,7 @@ MERGED from [com.google.firebase:firebase-iid:16.0.0] /home/pimenvibritania/.gra
 	android:name
 		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:12:22-76
 uses-permission#android.permission.INTERNET
-ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:13:5-66
+ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:13:5-67
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/41dd759e2538ac93b68fc97261397bd3/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/41dd759e2538ac93b68fc97261397bd3/AndroidManifest.xml:24:5-67
 MERGED from [com.firebase:geofire-android:2.1.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/geofire-android-2.1.1.aar/ea5fc46a18762361837ef0f1d7c29334/AndroidManifest.xml:4:3-64
@@ -100,7 +100,7 @@ MERGED from [com.google.firebase:firebase-iid:16.0.0] /home/pimenvibritania/.gra
 	android:name
 		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:13:22-64
 application
-ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:15:5-47:19
+ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:15:5-50:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/6164e647bd29561615efb4a24e15c3fa/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/6164e647bd29561615efb4a24e15c3fa/AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-auth:16.0.1] /home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.1.aar/f946109da0caa7e7dc8a5987ff93ef8d/AndroidManifest.xml:22:5-36:19
@@ -190,11 +190,17 @@ ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidM
 	android:name
 		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:41:13-58
 activity#com.example.pimenvibritania.cab.DriversMapsActivity
-ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:44:9-46:76
+ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:44:9-46:67
 	android:label
 		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:46:13-64
 	android:name
 		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:45:13-48
+activity#com.example.pimenvibritania.cab.CustomerMapActivity
+ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:47:9-49:76
+	android:label
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:49:13-64
+	android:name
+		ADDED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml:48:13-48
 uses-sdk
 INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/pimenvibritania/AndroidStudioProjects/CAB/app/src/main/AndroidManifest.xml

@@ -1,6 +1,7 @@
 package com.example.pimenvibritania.cab;
 
 import android.app.ProgressDialog;
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -105,6 +106,10 @@ public class CustomerLoginRegisterActivity extends AppCompatActivity {
                             {
                                 Toast.makeText(CustomerLoginRegisterActivity.this, "Customer Login Successfully...", Toast.LENGTH_SHORT).show();
                                 loadingBar.dismiss();
+
+                                Intent customerIntent = new Intent(CustomerLoginRegisterActivity.this, CustomerMapActivity.class);
+                                startActivity(customerIntent);
+                                finish();
                             }
 
                             else
@@ -144,6 +149,10 @@ public class CustomerLoginRegisterActivity extends AppCompatActivity {
                             {
                                 Toast.makeText(CustomerLoginRegisterActivity.this, "Customer Registration Succesfully...", Toast.LENGTH_SHORT).show();
                                 loadingBar.dismiss();
+
+                                Intent customerIntent = new Intent(CustomerLoginRegisterActivity.this,  CustomerMapActivity.class);
+                                startActivity(customerIntent);
+                                finish();
                             }
                             
                             else 
