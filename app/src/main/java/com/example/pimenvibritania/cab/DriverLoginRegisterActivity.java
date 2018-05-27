@@ -1,6 +1,7 @@
 package com.example.pimenvibritania.cab;
 
 import android.app.ProgressDialog;
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -109,6 +110,9 @@ public class DriverLoginRegisterActivity extends AppCompatActivity {
                         {
                             Toast.makeText(DriverLoginRegisterActivity.this, "Driver Logged in Successfully...", Toast.LENGTH_SHORT).show();
                             loadingBar.dismiss();
+
+                            Intent driverIntent =  new Intent(DriverLoginRegisterActivity.this, DriversMapsActivity.class);
+                            startActivity(driverIntent);
                         }
 
                         else
@@ -147,6 +151,9 @@ public class DriverLoginRegisterActivity extends AppCompatActivity {
 
                                 Toast.makeText(DriverLoginRegisterActivity.this, "Driver Register Succcesfully...", Toast.LENGTH_SHORT).show();
                                 loadingBar.dismiss();
+
+                                Intent driverIntent = new Intent(DriverLoginRegisterActivity.this, DriversMapsActivity.class);
+                                startActivity(driverIntent);
                             }
 
                             else {

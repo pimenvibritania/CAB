@@ -4,17 +4,7 @@
             "outputFile": "/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a9f5b66fb8cfa5fd7f2604fe0588f405/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "/home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3a6ec433568c9510cebfdb3ed63d7edc/res/values-v16/values-v16.xml",
+                    "source": "/home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a2adfc27569dcbd9d3fcce07903f34b2/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/pimenvibritania/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1bf7f720ab63100d0381bb7840a46de7/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

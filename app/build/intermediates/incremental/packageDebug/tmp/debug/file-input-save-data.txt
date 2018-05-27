@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Tue May 22 02:57:35 WIB 2018
-1.base=/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/transforms/dexMerger/debug/42
+#Sun May 27 19:28:15 WIB 2018
+1.base=/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/transforms/dexMerger/debug/71
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
 1.set=DEX
 0.path=classes.dex
 0.set=DEX
-0.base=/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/transforms/dexMerger/debug/41
+0.base=/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/transforms/dexMerger/debug/72
 1.path=classes.dex
