@@ -1,4 +1,4 @@
-#Sun May 27 19:28:14 WIB 2018
+#Sun May 27 20:28:42 WIB 2018
 base.0=/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/transforms/dexMerger/debug/65
 path.0=classes.dex
 renamed.0=classes.dex

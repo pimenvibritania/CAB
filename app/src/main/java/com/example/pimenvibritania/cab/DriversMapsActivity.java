@@ -1,6 +1,7 @@
 package com.example.pimenvibritania.cab;
 
 import android.content.Context;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.location.Location;
 import android.location.LocationListener;
@@ -13,6 +14,8 @@ import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 import android.support.v4.content.ContextCompat;
 import android.util.Log;
+import android.view.View;
+import android.widget.Button;
 import android.widget.Toast;
 
 import com.firebase.geofire.GeoFire;
@@ -31,6 +34,7 @@ import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
@@ -48,15 +52,38 @@ public class DriversMapsActivity extends FragmentActivity implements OnMapReadyC
     Location lastLocation;
     LocationRequest locationRequest;
 
+    private Button LogoutDriverButton, SettingsDriverButton;
+    private FirebaseAuth mAuth;
+    private FirebaseUser currentUser;
+    private Boolean currentLogoutDriverStatus = false;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_drivers_maps);
+
+        mAuth = FirebaseAuth.getInstance();
+        currentUser = mAuth.getCurrentUser();
+
+        LogoutDriverButton = (Button) findViewById(R.id.driver_logout_btn);
+        SettingsDriverButton = (Button) findViewById(R.id.driver_settings_btn);
+
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
 
         mapFragment.getMapAsync(this);
+
+        LogoutDriverButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                currentLogoutDriverStatus = true;
+                DisconnectTheDriver();
+                mAuth.signOut();
+                LogOutDriver();
+            }
+        });
     }
+
 
     //private void getDeviceLocation() {
       //  mFusedLocationProviderClient = LocationServices.getFusedLocationProviderClient(this);
@@ -118,11 +145,21 @@ public class DriversMapsActivity extends FragmentActivity implements OnMapReadyC
         mMap.moveCamera(CameraUpdateFactory.newLatLng(latLng));
         mMap.animateCamera(CameraUpdateFactory.zoomTo(12));
 
-        String userID = FirebaseAuth.getInstance().getCurrentUser().getUid();
-        DatabaseReference DriverAvailibiltyRef = FirebaseDatabase.getInstance().getReference().child("Driver Available");
-//
-        GeoFire geoFire = new GeoFire(DriverAvailibiltyRef);
-        geoFire.setLocation(userID, new GeoLocation(location.getLatitude(), location.getLongitude()));
+        if (FirebaseAuth.getInstance().getCurrentUser() != null)
+        {
+
+            String userID = FirebaseAuth.getInstance().getCurrentUser().getUid();
+            DatabaseReference DriverAvailibiltyRef = FirebaseDatabase.getInstance().getReference().child("Driver Available");
+            GeoFire geoFire = new GeoFire(DriverAvailibiltyRef);
+            geoFire.setLocation(userID, new GeoLocation(location.getLatitude(), location.getLongitude()));
+        }
+
+        else
+        {
+
+        }
+
+
     }
 
     @Override
@@ -162,10 +199,37 @@ public class DriversMapsActivity extends FragmentActivity implements OnMapReadyC
     @Override
     protected void onStop() {
         super.onStop();
-        String userID = FirebaseAuth.getInstance().getCurrentUser().getUid();
-        DatabaseReference DriverAvailibiltyRef = FirebaseDatabase.getInstance().getReference().child("Driver Available");
 
-        GeoFire geoFire = new GeoFire(DriverAvailibiltyRef);
-        geoFire.removeLocation(userID);
+        if (!currentLogoutDriverStatus)
+        {
+            DisconnectTheDriver();
+        }
+
+    }
+
+    private void DisconnectTheDriver() {
+        if (FirebaseAuth.getInstance().getCurrentUser() != null)
+        {
+
+            String userID = FirebaseAuth.getInstance().getCurrentUser().getUid();
+            DatabaseReference DriverAvailibiltyRef = FirebaseDatabase.getInstance().getReference().child("Driver Available");
+
+            GeoFire geoFire = new GeoFire(DriverAvailibiltyRef);
+            geoFire.removeLocation(userID);
+        }
+
+        else
+        {
+
+        }
+    }
+
+
+    private void LogOutDriver() {
+
+        Intent WelcomeIntent = new Intent(DriversMapsActivity.this, WelcomeActivity.class);
+        WelcomeIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
+        startActivity(WelcomeIntent);
+        finish();
     }
 }

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun May 27 19:28:15 WIB 2018
+#Sun May 27 20:58:09 WIB 2018
 1.base=/home/pimenvibritania/AndroidStudioProjects/CAB/app/build/intermediates/transforms/dexMerger/debug/71
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
